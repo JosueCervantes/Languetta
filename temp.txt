@@ -1,0 +1,2 @@
+<label class="form-label" for="correo"></label>
+<label class="form-label" for="contra"></label>
